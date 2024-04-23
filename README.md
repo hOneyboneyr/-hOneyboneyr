@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm web dev<br><br>stack: python, js
+My name is Nikita, i'm junior web dev
 
 
 ## 🌐 Socials:
